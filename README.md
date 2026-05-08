@@ -13,8 +13,8 @@ This project is an AI-based surveillance system that detects and tracks people a
 
 ## Datasets
 
-* ABODA Dataset
-* CAVIAR Dataset
+- ABODA Dataset: https://github.com/kevinlin311tw/ABODA
+- CAVIAR Dataset: http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/
 
 ## Evaluation Metrics
 
